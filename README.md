@@ -3,7 +3,7 @@
 # HNGx Stage Two
 This is a mobile application serving as a comprehensive CV, showcasing personal and professional details
 It includes Full name, Slack Name, Github handle and a brief personal bio.
-The app is deployed on appetize and can be viewed with the following link
+The app is deployed on appetize on android 12.0 and Pixel 6, and can be viewed through the following link
 https://appetize.io/app/bgmczkfovf7tmnz2tlllu4ehzq?device=pixel6&osVersion=12.0&scale=75
 
 
